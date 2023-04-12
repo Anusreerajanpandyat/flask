@@ -1,0 +1,4 @@
+outs:
+- md5: d4eb82a3bb7478ea2105d0167ce8d948
+  size: 2852
+  path: scaledmodel.pkl
